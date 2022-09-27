@@ -2,7 +2,7 @@
 //  ConverterApp.swift
 //  Converter
 //
-//  Created by Марина Швагирь on 22.09.2022.
+//  Created by Romy Shvagir
 //
 
 import SwiftUI
