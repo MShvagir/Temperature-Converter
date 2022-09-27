@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Converter
+//  Temperature Converter
 //
 //  Created by Romy Shvagir
 //
